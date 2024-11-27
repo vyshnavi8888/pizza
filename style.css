@@ -1,0 +1,38 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+}
+#out{
+    border: solid 1px ;
+    height: 650px ;
+    background-image: url(bg1.webp);
+    background-repeat: no-repeat;
+    background-size: 1500px 700px ;
+}
+h1{
+    color:black;
+    font-size: 70px ;
+    margin-top: 150px;
+    margin-left: 65px;
+}
+#register,#login{
+    height: 30px ;
+    width: 150px ;
+    margin-left: 70px ;
+    background-color: antiquewhite;
+}
+#register{
+    margin-left: 130px ;
+}
+#register a,#login a{
+color: black;
+font-size:21px ;
+text-decoration: none ;
+}
+#register:hover{
+    background-color: aqua;
+}
+#login:hover{
+    background-color:aqua ;
+}
+
